@@ -1,0 +1,6 @@
+language: python
+before_script:
+  - pip install -U vl
+  - vl --version
+script:
+  - vl README.md -t 5 --debug -w unity3d.com -a 503,405,401,429,502,403
