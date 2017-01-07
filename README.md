@@ -9,7 +9,7 @@
 - [Asset Store](#asset-store)
   - [Editor Extensions](#editor-extensions)
   - [Textures & Materials](#textures-materials)
-    -[2D & Isometric Tiles](#2d-isometric-tiles)
+    - [2D & Isometric Tiles](#2d-isometric-tiles)
   
   
 --------
