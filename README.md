@@ -1,3 +1,5 @@
+:checkered_flag: Link Checker: [![Build Status](https://travis-ci.org/Kavex/Unity3D-Resources.svg?branch=master)](https://travis-ci.org/Kavex/Unity3D-Resources)
+
 :heavy_dollar_sign: = Paid,
 :triangular_flag_on_post: = Limited Free,
 :free: = 100% Free,
