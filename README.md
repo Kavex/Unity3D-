@@ -1,15 +1,18 @@
 :checkered_flag: Link Checker: [![Build Status](https://travis-ci.org/Kavex/Unity3D-Resources.svg?branch=master)](https://travis-ci.org/Kavex/Unity3D-Resources)
 
-:heavy_dollar_sign: = Paid,
-:triangular_flag_on_post: = Limited Free,
-:free: = 100% Free,
-:o2: = Open Source
+<a href="https://github.com/Kavex/GameDev-Resources"> <img src="https://img.shields.io/badge/%F0%9F%8E%AE-GameDev%20Resources-green.svg?colorA=0099ff"> </a> <a href="https://github.com/Kavex/Unity3D-Resources"> <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Unity3D%20Resources-green.svg?colorA=0099ff"> </a>
 
+<h1 align="center"> <br> <img width="300" src="/img/unity-logo.png" alt="Unity3D Resources"> <br> </h1>
+
+:heavy_dollar_sign: = Paid,
+:free: = 100% Free
+
+--------
 
 - [Asset Store](#asset-store)
   - [Editor Extensions](#editor-extensions)
-  - [Textures & Materials](#textures-materials)
-    - [2D & Isometric Tiles](#2d-isometric-tiles)
+  - [Textures & Materials](#textures-and-materials)
+    - [2D & Isometric Tiles](#2d-and-isometric-tiles)
   
   
 --------
@@ -26,9 +29,9 @@ Asset Store
 * [Super Tilemap Editor](https://www.assetstore.unity3d.com/en/#!/content/56339) -  powerful and easy to use tile editor :heavy_dollar_sign:
 * [uMMO](https://www.assetstore.unity3d.com/en/#!/content/13867) - host your own dedicated game server :heavy_dollar_sign:
 
-### Textures & Materials
+### Textures and Materials
 
-#### 2D & Isometric Tiles
+#### 2D and Isometric Tiles
 
 * [Pixel Hero Vol.1](https://www.assetstore.unity3d.com/en/#!/content/42967) - RPG/Platformer Side Scroller :heavy_dollar_sign:
 * [Pixel Hero Vol.2](https://www.assetstore.unity3d.com/en/#!/content/43015) - RPG/Platformer Side Scroller :heavy_dollar_sign:
